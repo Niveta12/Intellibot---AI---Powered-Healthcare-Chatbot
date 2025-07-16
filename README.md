@@ -8,7 +8,7 @@ This project demonstrates how modern GenAI tools can be applied to real-world he
 
 ## 🧠 Key Features
 
-- ⚡ **LLaMA3-70B**: Ultra-fast inference via Groq’s LLM API
+- ⚡ **LLaMA3-70B**: Ultra-fast inference via LLM API
 - 💬 **Chatbot Interface**: Flask-powered backend with Bootstrap UI
 - 🔐 **.env Security**: API key securely stored and used via `python-dotenv`
 - 📁 **Chat Logging**: All user interactions stored in `chat_logs/` folder for team review
