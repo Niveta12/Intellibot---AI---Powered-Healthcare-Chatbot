@@ -16,6 +16,7 @@ This project demonstrates how modern GenAI tools can be applied to real-world he
 - 🌍 **Custom Domain**: Setup-ready for domains like `intellibot-healthcare.com`
 
 ---
+![IntelliBot Chatbot Demo](https://github.com/Niveta12/Intellibot---AI---Powered-Healthcare-Chatbot/blob/main/Intellibott.gif)
 
 > Responsive chatbot interface with health-themed layout and instant results powered by LLaMA3.
 
