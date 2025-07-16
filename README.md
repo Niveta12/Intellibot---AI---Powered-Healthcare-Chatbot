@@ -1,6 +1,4 @@
-# Intellibot---AI---Powered-Healthcare-Chatbot
-
-# 🤖 IntelliBot – AI-Powered Healthcare Chatbot
+# 🤖 Intellibot---AI---Powered-Healthcare-Chatbot
 
 IntelliBot is a blazing-fast, healthcare-focused chatbot powered by **LLaMA3-70B** model. It delivers intelligent, real-time responses to general health queries, all within a secure, mobile-friendly interface.
 
